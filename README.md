@@ -2,7 +2,7 @@
 - 👀 I’m interested in continuous growth. To me, living life means using today to make tomorrow better than yesterday.
 - 🌱 I’m currently pursuing an MS in Data Science.
 - 💞️ I’m looking to collaborate on ['Logistics','Ride-hailing','Charging-Stations'] projects.
-- 📫 How to reach me https://www.linkedin.com/in/shrikantb9/
+- 📫 How to reach me bhvshrikant@gmail.com
 - 😄 Pronouns: He/Him
 
 
